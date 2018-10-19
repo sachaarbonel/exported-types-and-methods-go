@@ -17,6 +17,6 @@ func main() {
 
 	wouaf := dog.Bark()
 
-	fmt.Printf("Counter: %#v\n", dog)
+	fmt.Printf(dog)
 	fmt.Printf(wouaf)
 }
